@@ -1,0 +1,23 @@
+{
+"products" : 
+[{"id":1,"name":"Deer, red","category":"Orange"},
+{"id":2,"name":"Otter, small-clawed","category":"Puce"},
+{"id":3,"name":"Galapagos hawk","category":"Purple"},
+{"id":4,"name":"Grey lourie","category":"Goldenrod"},
+{"id":5,"name":"Badger, european","category":"Yellow"},
+{"id":6,"name":"Asian water buffalo","category":"Pink"},
+{"id":7,"name":"Black vulture","category":"Green"},
+{"id":8,"name":"Possum, western pygmy","category":"Aquamarine"},
+{"id":9,"name":"Wood pigeon","category":"Aquamarine"},
+{"id":10,"name":"Black-tailed tree creeper","category":"Fuscia"},
+{"id":11,"name":"Groundhog","category":"Indigo"},
+{"id":12,"name":"Crocodile, nile","category":"Orange"},
+{"id":13,"name":"Indian tree pie","category":"Fuscia"},
+{"id":14,"name":"Boa, mexican","category":"Yellow"},
+{"id":15,"name":"Crested barbet","category":"Teal"},
+{"id":16,"name":"Black-capped capuchin","category":"Puce"},
+{"id":17,"name":"Tortoise, radiated","category":"Violet"},
+{"id":18,"name":"Bandicoot, short-nosed","category":"Yellow"},
+{"id":19,"name":"Waxbill, blue","category":"Fuscia"},
+{"id":20,"name":"Macaw, scarlet","category":"Turquoise"}]
+}
